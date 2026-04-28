@@ -1,0 +1,7 @@
+pandas
+openpyxl
+google-genai
+supabase==2.15.3
+python-dotenv
+python-docx
+requests
